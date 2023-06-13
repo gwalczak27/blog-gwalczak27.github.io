@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O mnie
+permalink: /o-mnie/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Nazywam się Grzegorz Walczak i pasjonuję się nowymi technologiami oraz muzyką. Od jakiegoś czasu pracuję jako copywriter, na co przeznaczam większą część dnia.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Zajmuję się pisaniem opisów produktów, artykułów na blogi oraz tworzeniem jakichkolwiek treści związanych z handlem oraz marketingiem. Mam lekkie pióro oraz jestem osobą kreatywną, dlatego moja praca daje mi wiele satysfakcji.
